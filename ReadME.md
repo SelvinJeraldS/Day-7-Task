@@ -1,0 +1,1 @@
+Todays Assignment About Map,reduce & Filter function for gathering Responses using XMLHttpRequest 
